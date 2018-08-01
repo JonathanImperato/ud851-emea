@@ -72,10 +72,14 @@
 
   author: Jonathan Imperato
   author_avatar: https://i.imgur.com/ka5sjM7.png
+  author_location: Florence Area, Italy
   author_links:
     - title: GitHub
       icon: github
-      url: https://github.com/jonathanimperato
+      url: https://github.com/jonathanimperato    
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/jonathan-imperato/
 
 - name: Trippo
   banner: https://i.imgur.com/V5hPFCO.png
